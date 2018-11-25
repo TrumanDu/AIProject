@@ -1,0 +1,42 @@
+@charset "gb2312";
+
+body {
+	margin: 0 auto;
+	width: 1920px;
+	height: 1080px;
+}
+
+#main {
+	width: 1920px;
+	height: 1080px;
+}
+
+.bg {
+	background: url(../images/background.jpg) no-repeat;
+	background-size: 100% 100%;
+	width: 1920px;
+	height: 1080px;
+}
+
+.people {
+	position: absolute;
+	right: 194px;
+	top: 138px;
+}
+
+.search {
+	position: absolute;
+	right: -549px;
+	top: -158px;
+}
+
+.detail {
+	/* position: absolute; */
+	left: 400px;
+	top: 119px;
+}
+
+.detailData{
+	font-family:¡±Microsoft YaHei¡±;
+	font-size: 14;
+}
